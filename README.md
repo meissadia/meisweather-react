@@ -14,7 +14,8 @@ The project has been a fun exercise in composing applications from components an
 
 ## Made Possible By:
 [Tyler McGinnis](https://tylermcginnis.com/)  
-[OpenWeather API](https://openweathermap.org/api)
+[OpenWeather API](https://openweathermap.org/api)  
+[NextJS](https://nextjs.org/)  
 
 ## Provisioning Requirements  
 
