@@ -4,7 +4,7 @@
 
 [MeisWeather](https://tmgweather-hvsoduarfy.now.sh/)
 
-<img src="./screen-shot.png" style="width:100%;" />
+<img src="./screen-shot2.png" style="width:100%;" />
 
 ## Motivation
 
