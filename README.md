@@ -13,6 +13,7 @@ As part of a software development course, this project has been implemented to t
 The project has been a fun exercise in composing applications from components and UI design.  It was a complex-enough refresher on managing State, using the React component lifecycle, and provided valuable experience integrating an external api ([OpenWeather API](https://openweathermap.org/api)).
 
 ## Made Possible By:
+[Omar Bravo](http://www.bravodms.com/)  
 [Tyler McGinnis](https://tylermcginnis.com/)  
 [OpenWeather API](https://openweathermap.org/api)  
 [NextJS](https://nextjs.org/)  
