@@ -16,7 +16,7 @@
     "@fortawesome/free-solid-svg-icons": "^5.1.0-11",
     "@fortawesome/react-fontawesome": "0.1.0-11",
     "axios": "^0.18.0",
-    "i": "^0.3.6",
+    "i": "^0.3.7",
     "moment": "^2.22.2",
     "next": "^6.1.1",
     "npm": "^6.3.0",
